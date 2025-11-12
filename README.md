@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Simon Hilton
 
-<!--
-**hiltonsimon/hiltonsimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Head of AI Products @ MYOB | Product Leader | Author of The Product Leader Series | Based in Sydney 🇦🇺**
 
-Here are some ideas to get you started:
+## 👨‍💼 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently leading AI product strategy and development at MYOB, focused on bringing AI capabilities to accounting software for small businesses across Australia and New Zealand.
+
+Product leader with experience spanning high-growth B2B SaaS companies in fintech and proptech, with a track record of building and scaling product teams and operations.
+
+## 📚 Author - The Product Leader Series
+
+Co-author of three books helping product leaders build better products and teams:
+- 📖 **Product Culture Pyramid** - Building strong product culture in SaaS companies
+- 📖 **Product Strategy Bridge** - Aligning product strategy with business goals  
+- 📖 **Product Ops Pillars** - Modern Product Operations framework
+
+## 🛠️ Skills & Focus Areas
+
+- 🤖 AI Product Development & Strategy
+- 📊 Product Management & Product Operations
+- 🎯 Product Strategy & Roadmapping
+- 👥 Team Leadership & Organizational Design
+- 🚀 B2B SaaS & Enterprise Software
+- 📈 Data-Driven Decision Making
+
+## 🌏 Based in Sydney, Australia
+
+## 🔗 Connect
+
+- 🌐 [simonhilton.co](https://www.simonhilton.co)
+- 💼 [LinkedIn](https://www.linkedin.com/in/simonhilton)
