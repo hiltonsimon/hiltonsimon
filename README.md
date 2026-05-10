@@ -29,7 +29,7 @@ Four books on the craft and strategy of product leadership:
 | 📘 | [The Product Ops Pillars](https://www.amazon.com.au/dp/B0CSMWWJKW) — Connect and organise your team to deliver customer value |
 | 📗 | [The Product Strategy Bridge](https://www.amazon.com.au/dp/B0BW3HG4TL) — Empower teams and gain confidence in your product direction |
 | 📙 | [The Product Culture Pyramid](https://www.amazon.com.au/dp/B0CQCC5Y48) — Building a principles-driven product culture |
-| 📕 | [The Product Analytics Compass](https://www.amazon.com.au/dp/B0CQCF652Z) — *(latest)* |
+| 📕 | [The Product Analytics Compass](https://www.amazon.com.au/dp/B0CQCF652Z) — Navigate product decisions with the metrics that matter |
 
 ---
 
